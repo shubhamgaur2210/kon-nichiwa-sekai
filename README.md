@@ -1,1 +1,3 @@
 # kon-nichiwa-sekai
+Heya! I am SHUBHAM GAUR new to git-hub.
+Lets get this party started....
